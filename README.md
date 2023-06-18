@@ -3,7 +3,7 @@
 ## Introduction
 Phân tích tình cảm dựa trên khía cạnh (Aspect-Based Sentiment Analysis - ABSA) là một kỹ thuật phân tích dữ liệu văn bản theo khía cạnh và xác định tình cảm cho từng khía cạnh. Phân tích tình cảm dựa trên khía cạnh có thể được sử dụng để phân tích phản hồi của khách hàng với các khía cạnh khác nhau của sản phẩm hoặc dịch vụ.
 
-<img src="./Image/vidu.png" width="400"/>
+<img src="./Image/motabaitoan.png" width="400"/>
 
 Chi tiết các khía cạnh về khách sạn.
 
