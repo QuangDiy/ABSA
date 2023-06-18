@@ -29,7 +29,7 @@ Bộ dữ liệu được xây dựng với quy trình nghiêm ngặt nhằm t�
   <tr>
     <td align="center">LR + Tfidf</td>
     <td align="center">59.53</td>
-    <td align="center">72.74</td>
+    <td align="center"><b>72.74</b></td>
     <td align="center">65.47</td>
   </tr>
   <tr>
@@ -38,23 +38,42 @@ Bộ dữ liệu được xây dựng với quy trình nghiêm ngặt nhằm t�
     <td align="center">33.38</td>
     <td align="center">46.48</td>
   </tr>
+  
   <tr>
     <td align="center">LinearSVC + Tfidf</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">82.06</td>
+    <td align="center">76.41</td>
+    <td align="center">38.07</td>
+    <td align="center">50.82</td>
   </tr>
   <tr>
     <td align="center">LR + CV</td>
-    <td align="center">76.54</td>
-    <td align="center">33.38</td>
-    <td align="center">46.48</td>
+    <td align="center">71.54</td>
+    <td align="center">66.67</td>
+    <td align="center">69.02</td>
   </tr>
   <tr>
     <td align="center">Multi NB + Cv</td>
-    <td align="center">76.54</td>
-    <td align="center">33.38</td>
-    <td align="center">46.48</td>
+    <td align="center">54.26</td>
+    <td align="center">54.75</td>
+    <td align="center">54.50</td>
+  </tr>
+  <tr>
+    <td align="center">LinearSVC + Cv</td>
+    <td align="center">76.95</td>
+    <td align="center">64.13</td>
+    <td align="center">69.96</td>
+  </tr>
+  <tr>
+    <td align="center">LSTM + fastText</td>
+    <td align="center"><b>76.98</b></td>
+    <td align="center">65.31</td>
+    <td align="center">70.67</td>
+  </tr>
+  <tr>
+    <td align="center">Bi-LSTM + fastText</td>
+    <td align="center">75.20</td>
+    <td align="center">67.61</td>
+    <td align="center"><b>71.21</b></td>
   </tr>
 </tbody>
 </table>
