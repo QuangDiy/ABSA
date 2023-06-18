@@ -13,7 +13,7 @@ Bộ dữ liệu được xây dựng với quy trình nghiêm ngặt nhằm t�
   - `Data tidy/dev.csv`
   - `Data tidy/test.csv`
 ## Training and Evaluation
-'Src`: Chứa toàn bộ các thử nghiệm.
+`Src`: Chứa toàn bộ các thử nghiệm.
 
 
 ## Results
