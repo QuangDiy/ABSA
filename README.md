@@ -16,9 +16,12 @@ Bộ dữ liệu được xây dựng với quy trình nghiêm ngặt nhằm t�
   - `Data tidy/train.csv`
   - `Data tidy/dev.csv`
   - `Data tidy/test.csv`
- Thống kê các nhãn trong bộ dữ liệu.
+
+Thống kê các khía cạnh phổ biến nhất 
 
 <img src="./Image/thongke1.png" width="400"/>
+
+Thống kê các khía cạnh ít xuất hiện nhất
 
 <img src="./Image/thongke2.png" width="400"/>
  
