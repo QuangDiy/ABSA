@@ -5,6 +5,10 @@ Phân tích tình cảm dựa trên khía cạnh (Aspect-Based Sentiment Analysi
 
 <img src="./Image/vidu.png" width="400"/>
 
+Chi tiết các khía cạnh về khách sạn.
+
+<img src="./Image/khiacanh.png" width="400"/>
+
 ## Dataset
 Bộ dữ liệu được xây dựng với quy trình nghiêm ngặt nhằm tạo ra một bộ dữ liệu chất lượng cao để tiến hành phân tích tình cảm dựa trên khía cạnh, với hơn 8,000 bình luận được thu thập từ nền tảng đặt phòng [traveloka](https://www.traveloka.com/en-vn/)  cùng với hơn 36,000 khía cạnh được xác định. Được chúng tôi chia ngẫu nhiên thành các tập Train, Dev, Test theo tỉ lệ 6:2:2.
 
@@ -12,6 +16,12 @@ Bộ dữ liệu được xây dựng với quy trình nghiêm ngặt nhằm t�
   - `Data tidy/train.csv`
   - `Data tidy/dev.csv`
   - `Data tidy/test.csv`
+ Thống kê các nhãn trong bộ dữ liệu.
+
+<img src="./Image/thongke1.png" width="400"/>
+
+<img src="./Image/thongke2.png" width="400"/>
+ 
 ## Training and Evaluation
 - `Src`: Chứa toàn bộ các thử nghiệm.
 - `Result data & eval/SAEvaluate.java`: Dùng để tính F1-Score, Pre., Recall.
