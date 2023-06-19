@@ -10,7 +10,9 @@ Chi tiết các khía cạnh về khách sạn.
 <img src="./Image/khiacanh.png" width="400"/>
 
 ## Dataset
-Bộ dữ liệu được xây dựng với quy trình nghiêm ngặt nhằm tạo ra một bộ dữ liệu chất lượng cao để tiến hành phân tích tình cảm dựa trên khía cạnh, với hơn 8,000 bình luận được thu thập từ nền tảng đặt phòng [traveloka](https://www.traveloka.com/en-vn/)  cùng với hơn 36,000 khía cạnh được xác định. Được chúng tôi chia ngẫu nhiên thành các tập Train, Dev, Test theo tỉ lệ 6:2:2.
+Bộ dữ liệu được xây dựng với quy trình nghiêm ngặt nhằm tạo ra một bộ dữ liệu chất lượng cao để tiến hành phân tích tình cảm dựa trên khía cạnh, với hơn 8,000 bình luận được thu thập từ nền tảng đặt phòng [traveloka](https://www.traveloka.com/en-vn/)  cùng với hơn 36,000 khía cạnh được xác định. Được chúng tôi chia ngẫu nhiên thành các tập Train, Dev, Test theo tỉ lệ 6:2:2. Quy trình xây dựng dữ liệu được mô tả như hình dưới.
+
+<img src="./Image/quytrinh.png" width="400"/>
 
 - `Data tidy/Full_data.json`: Chứa toàn bộ data trước khi được chia thành 3 file train, dev, test dưới dạng csv.
   - `Data tidy/train.csv`
